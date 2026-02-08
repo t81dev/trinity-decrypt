@@ -42,3 +42,8 @@ This tool can read messages encrypted by software that has been erased from hist
 Use with reverence.
 
 The dead still speak in balanced ternary.
+
+## Phase 4 migration
+
+- Decrypt evaluation matrix and benchmark alignment:
+  - `docs/phase4-evaluation-matrix.md`
