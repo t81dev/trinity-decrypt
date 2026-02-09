@@ -47,3 +47,5 @@ The dead still speak in balanced ternary.
 
 - Decrypt evaluation matrix and benchmark alignment:
   - `docs/phase4-evaluation-matrix.md`
+- Quarterly objectives (2026 Q1):
+  - `docs/quarterly-objectives-2026-q1.md`
